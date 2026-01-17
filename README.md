@@ -1,13 +1,13 @@
-# 🛒 E-Commerce Consumer Insights & Recommendation Engine
+#  E-Commerce Consumer Insights & Recommendation Engine
 **Developed by:** Anand Mohan Jha  
 **Project Type:** End-to-End Data Science & Analytics  
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 This project analyzes over **23,000 customer reviews** from a Women’s E-Commerce dataset. The goal is to provide actionable business intelligence by identifying product failure points and building a machine learning pipeline to predict customer recommendations.
 
-### 🎯 Key Business Questions:
+###  Key Business Questions:
 1. Which product departments are underperforming in customer satisfaction?
 2. What are the specific "pain points" (sizing, quality, etc.) mentioned in negative reviews?
 3. Can we automate the identification of "at-risk" customers using NLP?
@@ -22,7 +22,7 @@ This project analyzes over **23,000 customer reviews** from a Women’s E-Commer
 
 ---
 
-## 🚀 The Data Pipeline
+##  The Data Pipeline
 
 ### 1. SQL Business Intelligence
 Using SQL syntax within Python, I performed deep-dive aggregations to find the "Price vs. Quality" sweet spot.
@@ -38,7 +38,7 @@ I trained a **Logistic Regression** model to predict whether a user would recomm
 
 ---
 
-## 📈 Key Visualizations & Results
+##  Key Visualizations & Results
 
 ### Customer Pain Points
 
@@ -50,14 +50,14 @@ I trained a **Logistic Regression** model to predict whether a user would recomm
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 1.  **Quality Control:** The "Trend" department requires a manual audit of sizing guides to reduce return rates.
 2.  **Automated Flagging:** Implement the ML model to flag "Non-Recommendation" reviews in real-time for immediate customer support follow-up.
 3.  **Inventory Optimization:** Double down on "Intimates" and "Bottoms" departments, which showed the highest organic recommendation rates.
 
 ---
 
-## 📂 How to Run
+##  How to Run
 1.  **Clone the Repository:**
     ```bash
     git clone [https://github.com/amjha29/Ecom-Sentiment-Analysis.git](https://github.com/amjha29/Ecom-Sentiment-Analysis.git)
@@ -67,7 +67,7 @@ I trained a **Logistic Regression** model to predict whether a user would recomm
 
 ---
 
-## ✍️ Contact
+##  Contact
 **Anand Mohan Jha** 
 [https://www.linkedin.com/in/anand-mohan-jha-55843924a/] 
 [aj1001194@gmail.com]
