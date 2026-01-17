@@ -99,5 +99,6 @@ git clone https://github.com/amjha29/Ecom-Sentiment-Analysis.git
 ##  Contact
 
 **Anand Mohan Jha**
-[LinkedIn:- ](https://www.linkedin.com/in/anand-mohan-jha-55843924a/)
-[Email:-](mailto:aj1001194@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/anand-mohan-jha-55843924a/)
+
+[Email](mailto:aj1001194@gmail.com)
