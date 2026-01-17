@@ -51,10 +51,18 @@ I trained a **Logistic Regression** model to predict whether a user would recomm
 
 *The Word Cloud reveals that "sizing," "fit," and "fabric" are the primary drivers for 1-star and 2-star reviews.*
 
+### 📊 Visualizing Customer Pain Points
+![Customer Reviews Word Cloud](<img width="944" height="506" alt="wordcloud" src="https://github.com/user-attachments/assets/df2268df-25ba-4998-a797-3c154ce427f9" />
+)
+*The Word Cloud above highlights that "sizing" and "fit" are the most frequent complaints in negative reviews.*
+
 ### Model Performance
 
 *The Confusion Matrix demonstrates the model's reliability in distinguishing between positive and negative sentiment with **90% accuracy**.*
-
+### 📈 Model Performance Evaluation
+![Confusion Matrix] (<img width="518" height="393" alt="confusion_matrix" src="https://github.com/user-attachments/assets/911522d3-5f91-4ca4-aa3e-208d400ae422" />
+)
+*The Confusion Matrix confirms a 90% accuracy rate, showing high reliability in predicting customer recommendations.*
 ---
 
 ##  Business Recommendations
